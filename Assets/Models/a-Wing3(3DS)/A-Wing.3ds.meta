@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: b68830bed03e2f04582ac6f736fd72c2
+timeCreated: 1436835202
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CocIns
+    100004: Cockpit
+    100006: CocRear
+    100008: CocSideL
+    100010: CocSideR
+    100012: Engines
+    100014: EngL
+    100016: EngR
+    100018: HuDors
+    100020: HuFront
+    100022: Hull
+    100024: HuRea
+    100026: HuRear
+    100028: HuSid
+    100030: HuSide
+    100032: HuVen
+    100034: Inside
+    100036: JetHous
+    100038: JetMid
+    100040: JetRear
+    100042: Laser
+    100044: LaserL
+    100046: LaserR
+    100048: LsHoldL
+    100050: LsHoldR
+    100052: Pilot
+    100054: Seat
+    100056: Window
+    400000: //RootNode
+    400002: CocIns
+    400004: Cockpit
+    400006: CocRear
+    400008: CocSideL
+    400010: CocSideR
+    400012: Engines
+    400014: EngL
+    400016: EngR
+    400018: HuDors
+    400020: HuFront
+    400022: Hull
+    400024: HuRea
+    400026: HuRear
+    400028: HuSid
+    400030: HuSide
+    400032: HuVen
+    400034: Inside
+    400036: JetHous
+    400038: JetMid
+    400040: JetRear
+    400042: Laser
+    400044: LaserL
+    400046: LaserR
+    400048: LsHoldL
+    400050: LsHoldR
+    400052: Pilot
+    400054: Seat
+    400056: Window
+    2300000: //RootNode
+    2300002: CocIns
+    2300004: Cockpit
+    2300006: CocRear
+    2300008: CocSideL
+    2300010: CocSideR
+    2300012: Engines
+    2300014: EngL
+    2300016: EngR
+    2300018: HuDors
+    2300020: HuFront
+    2300022: Hull
+    2300024: HuRea
+    2300026: HuRear
+    2300028: HuSid
+    2300030: HuSide
+    2300032: HuVen
+    2300034: Inside
+    2300036: JetHous
+    2300038: JetMid
+    2300040: JetRear
+    2300042: Laser
+    2300044: LaserL
+    2300046: LaserR
+    2300048: LsHoldL
+    2300050: LsHoldR
+    2300052: Pilot
+    2300054: Seat
+    2300056: Window
+    3300000: //RootNode
+    3300002: CocIns
+    3300004: Cockpit
+    3300006: CocRear
+    3300008: CocSideL
+    3300010: CocSideR
+    3300012: Engines
+    3300014: EngL
+    3300016: EngR
+    3300018: HuDors
+    3300020: HuFront
+    3300022: Hull
+    3300024: HuRea
+    3300026: HuRear
+    3300028: HuSid
+    3300030: HuSide
+    3300032: HuVen
+    3300034: Inside
+    3300036: JetHous
+    3300038: JetMid
+    3300040: JetRear
+    3300042: Laser
+    3300044: LaserL
+    3300046: LaserR
+    3300048: LsHoldL
+    3300050: LsHoldR
+    3300052: Pilot
+    3300054: Seat
+    3300056: Window
+    4300000: A-Wing
+    4300002: Hull
+    4300004: HuDors
+    4300006: HuVen
+    4300008: HuSid
+    4300010: HuSide
+    4300012: HuFront
+    4300014: HuRea
+    4300016: HuRear
+    4300018: Cockpit
+    4300020: Window
+    4300022: CocSideR
+    4300024: CocSideL
+    4300026: CocRear
+    4300028: Inside
+    4300030: CocIns
+    4300032: Seat
+    4300034: Pilot
+    4300036: Laser
+    4300038: LaserL
+    4300040: LaserR
+    4300042: LsHoldR
+    4300044: LsHoldL
+    4300046: Engines
+    4300048: EngR
+    4300050: EngL
+    4300052: JetHous
+    4300054: JetRear
+    4300056: JetMid
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
